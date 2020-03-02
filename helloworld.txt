@@ -4,6 +4,8 @@ public class Hello {
         System.out.println("Hello1, world!");
         System.out.println("Hello2, world!");
         System.out.println("Hello3, world!");
+        System.out.println("Hello2, world!");
+        System.out.println("Hello1, world!");
         
     }
 }
